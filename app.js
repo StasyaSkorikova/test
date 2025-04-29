@@ -1,10 +1,12 @@
 let firstName = 'Stasya'
 firstName = 'Anastasiia'
 console.log('Hello', firstName)
+
+// Информация обо мне
 const name = "Stasya";
-const age = 27;
+const age = 26;
 const city = "Москва";
-const hobby = "программирование";
+const hobby = "рисование и чтение";
 
 console.log("Меня зовут " + name);
 console.log("Мне " + age + " лет");
